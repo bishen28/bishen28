@@ -1,7 +1,8 @@
 Hi, I’m Aadarsh Bishen. <br>
-I’m interested in Web developement.
+Btech, Final Year @IIT KANPUR <br>
+I’m  self-taught software engineer. <br>
 I’m currently learning Front end and Back end developement.<br>
-How to reach me email:- bisheniitk@gmail.com
+email:- bisheniitk@gmail.com
 
 <!---
 bishen28/bishen28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
