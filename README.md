@@ -1,7 +1,7 @@
 Hi, I’m Aadarsh Bishen. <br>
-Btech, Final Year @IIT KANPUR <br>
-I’m  self-taught software engineer. <br>
+Btech, Final Year @IIT KANPUR; Tech Enthusiast<br>
 I’m currently learning Front end and Back end developement.<br>
+I love Problem solving<br>
 email:- bisheniitk@gmail.com
 
 <!---
