@@ -1,6 +1,6 @@
 Hi, I’m Aadarsh Bishen. <br>
 I’m interested in Web developement.
-I’m currently learning Front end and Back end developement.
+I’m currently learning Front end and Back end developement.<br>
 How to reach me email:- bisheniitk@gmail.com
 
 <!---
