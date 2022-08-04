@@ -8,7 +8,7 @@
 
 
 <div "text-align: center;">Hi, I’m Aadarsh Bishen. <br>
-Btech, Final Year @IIT KANPUR; Tech Enthusiast<br>
+Btech-IITK'22<br>
 I’m currently learning Front end and Back end developement.<br>
 I love Problem solving<br>
 email:- bisheniitk@gmail.com
