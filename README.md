@@ -1,4 +1,4 @@
-<h1 align="center">Chill</h1>
+<h6 align="">Chill</h6>
 <!-- <h3 align="">A passionate backend developer from India</h3>
 
 <p align="center"> <img src="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/5091/875091-h" alt="bishen28" /> </p>
